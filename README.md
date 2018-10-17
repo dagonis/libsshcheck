@@ -5,6 +5,9 @@ Quick and dirty, living off the land Python script that works for Python 3 (and 
 
 This will only work for a few weeks, when the clean libssh versions start to increment the checks in this tool will no longer work. If this is after November 1st 2018, find a better tool or edit this one for your own purposes.
 
+# Dependancies 
+Python3 and netcat (any netcat will do!)
+
 # Install
 Don't have to install anything. Clone and run!
 
